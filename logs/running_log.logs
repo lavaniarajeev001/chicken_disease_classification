@@ -78,3 +78,18 @@ NameError: name 'PrepareBaseModelTrainingPipeline' is not defined
 [2025-03-03 15:48:36,610:INFO:main:>>>>>> stage Prepare base model completed <<<<<<
 
 x==========x]
+[2025-03-04 09:49:28,553:INFO:common:yaml_file:config\config.yaml loaded successfully]
+[2025-03-04 09:49:28,730:INFO:common:yaml_file:params.yaml loaded successfully]
+[2025-03-04 09:49:28,767:INFO:common:created directoty at : artifacts]
+[2025-03-04 09:50:45,649:INFO:common:yaml_file:config\config.yaml loaded successfully]
+[2025-03-04 09:50:45,656:INFO:common:yaml_file:params.yaml loaded successfully]
+[2025-03-04 09:50:45,659:INFO:common:created directoty at : artifacts]
+[2025-03-04 09:50:45,664:INFO:common:created directoty at : artifacts\prepare_callbacks\tensorboard_logs]
+[2025-03-04 09:51:34,425:INFO:common:yaml_file:config\config.yaml loaded successfully]
+[2025-03-04 09:51:34,431:INFO:common:yaml_file:params.yaml loaded successfully]
+[2025-03-04 09:51:34,434:INFO:common:created directoty at : artifacts]
+[2025-03-04 09:51:34,438:INFO:common:created directoty at : artifacts\prepare_callbacks\tensorboard_logs]
+[2025-03-04 09:51:41,212:INFO:common:yaml_file:config\config.yaml loaded successfully]
+[2025-03-04 09:51:41,212:INFO:common:yaml_file:params.yaml loaded successfully]
+[2025-03-04 09:51:41,212:INFO:common:created directoty at : artifacts]
+[2025-03-04 09:51:41,228:INFO:common:created directoty at : artifacts\prepare_callbacks\tensorboard_logs]
